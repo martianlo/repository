@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/XMLRPC3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Log"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JDOM"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/axis"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Servlet"/>
+	<classpathentry kind="lib" path="E:/project java 2010/library/Axis2/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/project java 2010/library/Axis2/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/project java 2010/library/Axis2/xercesImpl-2.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
